@@ -1,0 +1,9 @@
+.venv/             # Virtual environment
+__pycache__/       # Python bytecode
+*.pyc              # Compiled Python files
+.DS_Store          # macOS folder metadata
+*.log              # Log files
+*.swp              # Swap files (used by some editors)
+.idea/             # IntelliJ IDEA files
+*.iml              # IntelliJ IDEA files
+node_modules/      # Node.js modules (if you use JavaScript)
